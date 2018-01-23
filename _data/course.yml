@@ -1,0 +1,6 @@
+title: R Basics
+description: Introduction to R
+modules: [About Course, Getting Started, Packages Needed for NAMBARI]
+signups:
+js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
+ 
