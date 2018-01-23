@@ -67,6 +67,27 @@ log(4.481689)</code></pre>
 log10(1000)</code></pre>
 <pre><code>## [1] 3</code></pre>
 </div>
+
+
+
+
+
+
+<div class="content-box-green">
+<h1>On Your Own: Swirl Practice </h1>
+<p>In order to learn R you must do R. Follow the steps below in your RStudio console:</p>
+<ol style="list-style-type: decimal">
+<li>Run this command to pick the course:</li>
+</ol>
+<pre><code>swirl()</code></pre>
+<p>You will be promted to choose a course. Type whatever number is in front of <strong>01 Getting Started</strong>. This will then take you to a menu of lessons. For now we will just use lesson 2. Type 2 to choose <strong>R as Calculator</strong> then follow all the instructions until you are finished.</p>
+<p>Once you are finished with the lesson come back to this course and continue.</p>
+
+
+
+
+</div>
+
 <div id="logical-operators" class="section level2">
 <h2>Logical Operators</h2>
 <p>Another important feature of R is the ability to use logic. This is not unique to R as all programming languages can do this, but it will be extremely useful when working with data.</p>
@@ -143,6 +164,22 @@ log10(1000)</code></pre>
 </div>
 
 
+
+
+<div class="content-box-green">
+<h1>On Your Own: Swirl Practice </h1>
+<p>In order to learn R you must do R. Follow the steps below in your RStudio console:</p>
+<ol style="list-style-type: decimal">
+<li>Run this command to pick the course:</li>
+</ol>
+<pre><code>swirl()</code></pre>
+<p>You will be promted to choose a course. Type whatever number is in front of <strong>01 Getting Started</strong>. This will then take you to a menu of lessons. For now we will just use lesson 3. Type 3 to choose <strong>Logic</strong> then follow all the instructions until you are finished.</p>
+<p>Once you are finished with the lesson come back to this course and continue.</p>
+
+
+
+
+</div>
 
 
 

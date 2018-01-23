@@ -9,7 +9,7 @@ Most likley if you are here on this page you have! One of the biggest struggles 
 
 
 
-This is where thise course comes in. We will walk through the basics of R and give you the ability to go from not having R on your computer to doing analysis with R in a few days!
+THis is where thise course comes in. We will walk through the basics of R and give you the ability to go from not having R on your computer to doing analysis with R in a few days!
 
 
 
@@ -21,7 +21,11 @@ This is where thise course comes in. We will walk through the basics of R and gi
 This course is designed to cover the very basics of using and working with R. It will be taught with the following sections:
 
 - **Getting Started in R and RStudio**
-- **Installing Packages Needed for [NAMBARI Course](https://nambari.github.io/)**
+- **Data in R**
+- **The Tidyverse**
+- **Graphing Data in R**
+- **Modeling Data in R**
+- **Communicating and Publishing Data in R**
 
 
 
